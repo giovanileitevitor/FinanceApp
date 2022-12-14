@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">FinanceApp</string>
+    <string name="btn_binding">ViewBinding Mode</string>
+    <string name="content_binding">Button ViewBinding Mode</string>
+    <string name="btn_compose">Compose Mode</string>
+    <string name="content_compose">Button Compose Mode</string>
+
 </resources>
